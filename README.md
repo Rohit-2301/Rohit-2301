@@ -15,7 +15,7 @@
 
 ---
 
-🎓 **Computer Science Engineering** student at **Chandigarh University (2022–2026)**  
+🎓 **Computer Science Engineering** student 
 💡 Passionate about backend development, clean architecture, and building scalable software  
 🚀 Exploring system design, testing, and microservices
 
