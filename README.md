@@ -4,7 +4,7 @@
 <p align="center">
   <a href="mailto:rohitsahu123078@gmail.com"><img src="https://img.shields.io/badge/Email-rohitsahu123078@gmail.com-blue?style=flat-square&logo=gmail"></a>
   <a href="https://github.com/Rohit-2301"><img src="https://img.shields.io/badge/GitHub-Rohit--2301-black?style=flat-square&logo=github"></a>
-  <a href="http://www.linkedin.com/in/rohit-sahu%2021b336236"><img src="https://img.shields.io/badge/LinkedIn-Rohit%20Sahu-blue?style=flat-square&logo=linkedin"></a>
+  <a href="www.linkedin.com/in/rohit-sahu-21b336236"><img src="https://img.shields.io/badge/LinkedIn-Rohit%20Sahu-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
 ---
