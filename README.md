@@ -25,26 +25,32 @@
 
 #### 💻 Languages
 <p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
 #### 🌐 Frontend
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
-#### 🔧 Backend
+#### 🔧 Backend / ML
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Joblib-323330?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-#### 🛢️ Databases
+#### 📄 Document Parsing
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyMuPDF-0078D7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+</p>
+
+#### 🛢️ Model & Data
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/TFIDF-Vectorizer-blueviolet?style=for-the-badge" />
 </p>
 
 #### 🛠️ Tools & Platforms
@@ -56,3 +62,12 @@
 </p>
 
 ---
+
+### 📂 Recent Work
+
+- ✅ Developed **HireSense**, an AI-powered resume classifier
+- 🔍 Used **PyMuPDF** to extract structured text from PDFs
+- 🤖 Built a **Logistic Regression** model to predict job roles from resume content
+- 🧠 Preprocessed data using **TF-IDF Vectorizer**, trained using `scikit-learn`
+- 💾 Serialized model with `joblib` and served predictions in a **Streamlit** UI
+- 🧪 Created a clean interface to upload resumes, parse content, and get job predictions instantly
